@@ -1,7 +1,6 @@
 # CalTech-PG-DevOps-Final-Capstone-Project
-Project-3
-B-Safe.
-Project 3 
+##B-Safe
+##Project 3 
 
 DESCRIPTION
 
