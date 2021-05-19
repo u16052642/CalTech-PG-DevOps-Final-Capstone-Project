@@ -34,7 +34,7 @@ Remove container stack after completing the job
 2. The submission of your Github repository link is mandatory. In order to track your tasks, you need to share the link of the repository.
 3. Document the step-by-step process starting from creating test cases, the executing it, and recording the results.
 4. You need to submit the final specification document, which includes:
-### *Project and tester details
-### *Concepts used in the project
-### *Links to the GitHub repository to verify the project completion
-### *Your conclusion on enhancing the application and defining the USPs (Unique Selling Points)
+##### *Project and tester details
+##### *Concepts used in the project
+##### *Links to the GitHub repository to verify the project completion
+##### *Your conclusion on enhancing the application and defining the USPs (Unique Selling Points)
