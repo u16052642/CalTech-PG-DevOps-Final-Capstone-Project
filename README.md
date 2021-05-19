@@ -23,10 +23,10 @@ Remove container stack after completing the job
 
 ### The following tools must be used:
 
-EC2
-Jenkins
-Docker
-Git
+1. EC2
+2. Jenkins
+3. Docker
+4. Git
 
 ### The following things to be kept in check:
 
