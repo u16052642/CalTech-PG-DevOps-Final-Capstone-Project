@@ -6,7 +6,7 @@ pipeline {
     stages{
         stage('GIT checkout') {
             steps {
-                git credentialsId: 'github_cred', url: 'https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project.git'
+                checkout([$class: 'GitSCM', branches: [[name: '*/master']], extensions: [], userRemoteConfigs: [[url: 'https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project.git']]])
             }
         }
           stage('Build Package') {
