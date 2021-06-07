@@ -15,7 +15,7 @@
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
 	
-	<h2> Glad to see you here!!!!</h2>
-        <h2>Thanks for visiting!!!!</h2>
+	<h2> Glad to see you here!!</h2>
+        <h2>Thanks for visiting!!</h2>
 </body>
 	
