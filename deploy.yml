@@ -1,6 +1,6 @@
 - name: deploying conatiner
   hosts: ans-host
-  become: true
+  #become: true
   tasks:
       - name: stop tomcat docker
         shell: docker stop tomcat-container
