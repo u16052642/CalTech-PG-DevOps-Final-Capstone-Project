@@ -13,4 +13,4 @@
        shell: docker rmi -f softbayx/hello-world
        
      - name: create a new tomcat container using the defined Dockerfile
-       shell: docker run -d --name tomcat-container -p 8081:8080 softbayx/caltech-pg-devops-final-capstone-project
+       shell: docker run -d --name tomcat-container -p 1225:8080 softbayx/caltech-pg-devops-final-capstone-project
